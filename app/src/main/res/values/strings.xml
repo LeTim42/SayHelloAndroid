@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Скажи привет!</string>
+    <string name="enter_welcome_text">Введите текст приветствия</string>
+    <string name="hint_welcome_text">Добро пожаловать</string>
+    <string name="enter_name">Введите свое имя</string>
+    <string name="hint_name">Максим</string>
+    <string name="ready">Готово</string>
+</resources>
